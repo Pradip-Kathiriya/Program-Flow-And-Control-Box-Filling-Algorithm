@@ -1,0 +1,1 @@
+void fill_up_boxes(const struct s & var);
